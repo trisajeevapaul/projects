@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-24T18:55:04 IST" name="Suite" finished-at="2023-04-24T18:55:11 IST" duration-ms="7359">
+    <groups>
+    </groups>
+    <test started-at="2023-04-24T18:55:04 IST" name="Test" finished-at="2023-04-24T18:55:11 IST" duration-ms="7359">
+      <class name="integratedTest.TC_001_LoginTest">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:integratedTest.TC_001_LoginTest@3527942a]" started-at="2023-04-24T18:55:03 IST" name="startReport" finished-at="2023-04-24T18:55:04 IST" duration-ms="350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:integratedTest.TC_001_LoginTest@3527942a]" started-at="2023-04-24T18:55:04 IST" name="setup" finished-at="2023-04-24T18:55:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testcasedetails()[pri:0, instance:integratedTest.TC_001_LoginTest@3527942a]" started-at="2023-04-24T18:55:04 IST" name="testcasedetails" finished-at="2023-04-24T18:55:04 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasedetails -->
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:integratedTest.TC_001_LoginTest@3527942a]" started-at="2023-04-24T18:55:04 IST" name="LaunchBrowser" finished-at="2023-04-24T18:55:10 IST" duration-ms="5488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="runLogin(java.lang.String,java.lang.String)[pri:0, instance:integratedTest.TC_001_LoginTest@3527942a]" started-at="2023-04-24T18:55:10 IST" name="runLogin" data-provider="fetchdata" finished-at="2023-04-24T18:55:11 IST" duration-ms="1134" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runLogin -->
+        <test-method is-config="true" signature="close()[pri:0, instance:integratedTest.TC_001_LoginTest@3527942a]" started-at="2023-04-24T18:55:11 IST" name="close" finished-at="2023-04-24T18:55:11 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="stopreport()[pri:0, instance:integratedTest.TC_001_LoginTest@3527942a]" started-at="2023-04-24T18:55:11 IST" name="stopreport" finished-at="2023-04-24T18:55:12 IST" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopreport -->
+      </class> <!-- integratedTest.TC_001_LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
